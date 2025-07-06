@@ -20,4 +20,4 @@ Category	Technology
 Backend	Python, Flask
 Frontend	HTML, CSS
 Templating	Jinja2 (Flask default template engine)
-Deployment	Can be deployed on local server or hosted on platforms like Heroku, Render, or Replit
+MY SQL for datastorage
